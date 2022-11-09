@@ -6,5 +6,5 @@
 
 #### Link
 
-- [OSPF with mikrotik](./ospf-nat-with-mikrotik/README.MD)
+- [OSPF with mikrotik](./ospf-nat-with-mikrotik/)
 -
