@@ -83,3 +83,6 @@ no stack-unit id stack-group id
 do write memory
 do reload
 ```
+
+Referensi :
+https://www.dell.com/support/kbdoc/en-id/000122545/how-to-create-a-stack-on-a-dell-networking-force10-s4810-model-switch
