@@ -5,6 +5,7 @@
 Pada topologi ini menggunakan dell switch s4810 switch 1 sebagai master dan switch 2 sebagai slave
 
 ![ring-topology](./stack-group-dell-sw.jpeg)
+
 Stack Group Id. Kali ini menggunakan 2 kabel yang terhubung SG 14 dan SG 15 pada masing-masing switch
 
 > Sebelum melakukan stacking pada switch pastikan OS yang berjalan sama pada setiap switch
@@ -77,7 +78,7 @@ show system stack-ports
 Remove Stacking
 
 ```
-#Configure Mode
+#Configure mode
 no stack-unit id stack-group id
 do write memory
 do reload
