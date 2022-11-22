@@ -1,4 +1,4 @@
-## Prosedur Reset Password Dell Switch S-Series
+## Prosedur Reset Password Dell Switch S-Series dan Reset
 
 1. Dapatkan session serial control dari switch
 
@@ -17,7 +17,7 @@ screen /dev/ttyUSB0 <baud rate>
 => reset
 ```
 
-6. Hapus Startup Config
+6. reset Configuration
 
 ```
 Privillage mode
