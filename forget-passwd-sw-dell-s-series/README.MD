@@ -3,7 +3,7 @@
 1. Dapatkan session serial control dari switch
 
 ```
-screen /dev/ttyUSB0 <baud rate>
+screen /dev/ttyUSB0 #interface-console 9600 #baudrate
 ```
 
 2. Nyalakan Dell Switch S-Series
